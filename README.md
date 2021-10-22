@@ -1,7 +1,7 @@
 # RecuperarWeb3_RafaelLeite
 
 Olá!
-Boa noite Profe!
+Boa noite, Profe!
 Tive muitas dificuldades no ambiente computacional da parte da minha maquina e infelizmente desenvolvi pouco na parte do código. 
 
 Segue abaixo as respostas do questionário:
@@ -10,7 +10,7 @@ Segue abaixo as respostas do questionário:
 Chamar a classe Scanner para ler conteúdo da tela;
 
 1b
-Implica em apreserntar que houve um erro de entrado ou saída
+Implica em apresentar que houve um erro de entrado ou saída
 
 1c
 A função é ler um conteúdo digitado pelo cliente (usuário).
@@ -22,9 +22,13 @@ Lê todos os tipos de dados "primitivos" como double, String, int, float e etc..
 1e 
 objeto.next(); -> para palavras simples sem espaços - objeto.nextLine();
 ex.: Scanner ler = new Scanner(System.in);
+
 ler.next();
+
 ler.nextLine();
+
 ler.nextInt();
+
 ler.nextDouble();
 
 1f
@@ -39,16 +43,23 @@ iv - Imprime o texto concatenando (juntando) com o conteúdo das variavéis - no
 
 1h
 hi - A classe Main (principal) é aque controla todo o sistema;
+
 h ii - Além de ser a classe de execução da aplicação ela também serve para isolarmos (protegermos o código) isolando as classes 
+
 h iii - public (pública) para ser livremente acessada 
 e contém um método publico, statico e sem retorno (void) recebe como String os paramentros recebidos [args])
 
 1i
 
 i - Veiculo;
+
 ii - Não possui classe Main
+
 iii -  tipo, cor - String; id - int; valor que é do tipo double
+
 iv -  tipo, cor, id, valor;
-v - mostrarDetalhes;
+
+v - mostrarDetalhes();
+
 vi - veic 
 
